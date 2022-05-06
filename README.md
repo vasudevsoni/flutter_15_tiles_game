@@ -1,4 +1,4 @@
-# tile_game
+# 15 Tiles Puzzle
 
 A new Flutter project.
 
